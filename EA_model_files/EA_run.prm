@@ -19,6 +19,13 @@ flaggape      0        # Periodically list prey vs gape statistics (tuning diagn
 flagchecksize 0        # Periodically list relative size (tuning diagnostic)
 flagagecheck  0        # Periodically list age structure per cohort (tuning diagnostic)
 flagdietcheck 0        # Periodically list realised diet matchups (tuning diagnostic)
+flag_migration_on 1
+flagIsPolar 1
+flag_pollutant_impacts 0
+flagenviro_warn 0
+flag_mig_in_bioindx 0
+K_num_basket 0
+
 checkNH       0        # Give detailed logged output for NH in checkbox
 checkDL       0        # Give detailed logged output for DL in checkbox
 checkDR       0        # Give detailed logged output for DR in checkbox
