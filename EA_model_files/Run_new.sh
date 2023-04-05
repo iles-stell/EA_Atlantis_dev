@@ -8,7 +8,7 @@
 ## ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ##
 ## ~           Running Atlantis JFRE        ~ ##
 ## ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ##
-atlantisMerged -i final_with_ice_input.nc 0 -o output.nc -r EA_run.prm -f EA_force.prm -p EA_physics.prm -b EA_biol.prm -h EA_harvest_nofishing.prm -s AntarcticGroupsnew2019.csv -d output_EA_biol_debug -m EA_migrations.csv
+atlantisMerged -i final_with_ice_input_v2.nc 0 -o output.nc -r EA_run.prm -f EA_force.prm -p EA_physics.prm -b EA_biol.prm -h EA_harvest_nofishing.prm -s AntarcticGroups_v2.csv -d output_EA_biol_debug -m EA_migrations.csv
 
 ## Backup of the log.txt file
 #echo "++++++++++++++++++++++++++++++++++++++++"

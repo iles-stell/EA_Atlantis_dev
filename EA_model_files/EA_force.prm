@@ -83,3 +83,8 @@ Ice0.name sea_ice_test.nc
 
 # use_vertMixFiles
 use_VertMixFiles 0
+
+## ~~~~~~~~~~~~~~~~~~~~ ##
+## ~      Pollutants  ~ ##
+## ~~~~~~~~~~~~~~~~~~~~ ##
+use_pollutantfiles 0
